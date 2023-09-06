@@ -3,5 +3,5 @@ Al operador de telecomunicaciones Interconnect le gustaría poder pronosticar su
 
 ### Objetivos
 1. Realizar un análisis exploratorio de los datos de los clientes, contratos y servicios.
-2. Crear un modelo de machine learning que permita predecir la probabilidad de cancelación de clientes.
-3. Evaluar la calidad del modelo con AUC-ROC como principal métrica.
+1. Crear un modelo de machine learning que permita predecir la probabilidad de cancelación de clientes.
+1. Evaluar la calidad del modelo con AUC-ROC como principal métrica.
